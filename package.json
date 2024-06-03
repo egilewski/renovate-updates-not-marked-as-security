@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@cypress/request": "2.88.12",
-    "follow-redirects": "1.15.2"
-  }
-}
